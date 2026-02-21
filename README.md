@@ -40,7 +40,7 @@ A graph-based transit route evaluation system built in Java that optimizes route
 ## ▶️ How To Run
 
 ```bash
-javac *.java
+javac TransitRouteEngin.java
 java TransitRouteEngin
 📊 Example Output
 Best Route: O1 → O2 → O3
@@ -51,6 +51,6 @@ Passengers Assigned: 50
 ---
 
 
-```markdown
+```
 ## 🏗 Architecture Diagram
 ![Architecture](docs/architecture.png)
