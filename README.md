@@ -48,7 +48,6 @@ Total Time: 25 min
 Total Fare: ₹12
 Passengers Assigned: 50
 
----
 
 
 ```
