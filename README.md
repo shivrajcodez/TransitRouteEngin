@@ -53,4 +53,4 @@ Passengers Assigned: 50
 
 ```
 ## 🏗 Architecture Diagram
-![Architecture](docs/architecture.png)
+![Architecture](architecture.png)
